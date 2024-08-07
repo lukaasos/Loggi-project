@@ -10,7 +10,7 @@ Estrutura do Projeto
     visualizations/: Gráficos e outras visualizações geradas durante a análise.
     README.md: Documentação do projeto.
 
-**Pré-requisitos**
+## Pré-requisitos
 
 Antes de começar, você precisa ter instalado:
 
@@ -19,7 +19,7 @@ Antes de começar, você precisa ter instalado:
     Bibliotecas Python: pandas, numpy, matplotlib, json, seaborn, geopy, geopandas
 
 
-**Instalação**
+## Instalação
 
 Clone este repositório para sua máquina local
 
